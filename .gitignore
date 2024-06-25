@@ -1,0 +1,11 @@
+Notes
+vendor 
+
+composer.lock
+
+*.txt
+*.bat
+*.git
+*.sql
+*.env
+*.zip
